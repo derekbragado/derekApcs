@@ -8,6 +8,13 @@ public class Lab02e
 {
 	public static void main( String[] args )
    {
+		Circle newCircle = new Circle();
+		
+		newCircle.setRadius(52);
+		newCircle.calculateArea();
+		newCircle.print();
+		
+		
 		//add test cases
 		
 		
