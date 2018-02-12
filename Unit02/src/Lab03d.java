@@ -1,8 +1,8 @@
 //© A+ Computer Science  -  www.apluscompsci.com
-//Name -
-//Date -
-//Class -
-//Lab  -
+//Name -Derek Bragado
+//Date -2/8/18
+//Class -1
+//Lab  -03D
 
 import java.util.Scanner;
 import static java.lang.System.*;
