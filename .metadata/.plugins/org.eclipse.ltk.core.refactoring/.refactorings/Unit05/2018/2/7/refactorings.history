@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;CharacterAnalyzer.theChar&apos; in &apos;CharacterAnalyzer&apos;&#x0D;&#x0A;- Original project: &apos;Unit05&apos;&#x0D;&#x0A;- Original element: &apos;CharacterAnalyzer.theChar&apos;&#x0D;&#x0A;- Getter method name: &apos;getTheChar&apos;&#x0D;&#x0A;- Setter method name: &apos;setTheChar&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;theChar&apos;" flags="589830" getter="getTheChar" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;{CharacterAnalyzer.java[CharacterAnalyzer^theChar" insertion="-1" setter="setTheChar" stamp="1518631342069" version="1.0" visibility="1"/>
+</session>
