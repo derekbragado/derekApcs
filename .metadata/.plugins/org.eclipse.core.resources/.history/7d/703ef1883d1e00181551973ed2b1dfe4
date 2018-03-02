@@ -1,0 +1,32 @@
+package a;
+
+import javax.swing.plaf.synth.SynthSeparatorUI;
+
+public class numbers {
+	
+
+	
+	
+	public static boolean isGoofy(int num){
+		if (num%2 == 1)
+			return true;
+		else
+			return false;
+		
+		
+			
+		
+	
+			
+			
+		
+		}
+	
+	
+	public static int[] getSomeGoofyNumbers(int count){
+		isGoofy.getSomeGoofyNumbers;
+	}
+}
+
+
+
